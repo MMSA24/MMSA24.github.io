@@ -13,3 +13,9 @@ This needs to be within the:
 ```csharp
 static void Main(){      }
 ```
+
+In order to read this we use the command:
+
+```csharp
+Console.ReadLine();
+```
